@@ -1,5 +1,4 @@
-PHP-Comment-Reporter
-=====================
+PHP Comment Reporter
 Introduction:
 Tools is developed in PHP with purpose to check and report uncommented lines of code in files. 
 Objective is to report complex projects and reduce code review time. 
