@@ -1,6 +1,11 @@
 PHP Comment Reporter
 Introduction:
-Tools is developed in PHP with purpose to check and report uncommented lines of code in files. 
+While working as a Team Lead for Barnes and Nobel, code reviews were consuming lot of my time and I looked for some tool
+which can save my time, not getting what I needed, I created this simple but useful tool and decided to share it with you.
+
+Tools is developed in PHP with purpose to check and report uncommented lines of code in files.Such type of review is needed 
+specially when you are working on complex projects.
+
 Objective is to report complex projects and reduce code review time. 
 The tool is capable to traverse complex directories structure, identify PHP source code and generate report. 
 
